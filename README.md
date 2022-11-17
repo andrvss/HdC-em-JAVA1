@@ -1,2 +1,9 @@
-# HdC-em-Java
-Atividade com múltiplos exercícios de fixação para linguagem Java.
+# Hora de Codar - em JAVA! 🖥️
+
+##
+
+Estamos nos primeiros passos de lógica de programação!
+
+Agora é botar a mão em uma pequena sequência de exercícios. 👏
+
+##
